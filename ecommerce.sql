@@ -1,3 +1,5 @@
+create database ecommerce;
+
 use ecommerce;
 
 CREATE TABLE country (
